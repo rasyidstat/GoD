@@ -1,2 +1,2 @@
 # GoD
-Repository for my GoD analysis and visualization
+Repository for my Game of Data analysis and visualization
